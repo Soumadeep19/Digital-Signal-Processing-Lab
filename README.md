@@ -1,2 +1,2 @@
 # Digital-Signal-Processing-Lab 
-ECE 6th Sem _ DSP Lab Codes on MATLAB.
+ECE 5th Sem _ DSP Lab Codes on MATLAB.
